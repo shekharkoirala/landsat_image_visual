@@ -1,2 +1,2 @@
 # landsat_image_visual
-Landsat image visualizations and comparisions
+Landsat image visualizations and comparisions using Mapbox
